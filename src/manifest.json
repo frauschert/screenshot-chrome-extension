@@ -1,6 +1,0 @@
-{
-    "name": "My chrome extension",
-    "description": "This extension is used for creating browser screenshots.",
-    "version": "0.1.0",
-    "manifest_version": 3
-}
